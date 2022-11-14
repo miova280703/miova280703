@@ -2,7 +2,7 @@
 - 👀 I’m interested in networking, software development, testing, longboard dancing, juggling and dancing.
 - 🌱 I’m currently learning Cisco Networking Essentials, golang, python, angular, react, functional and unit testing and Portuguese.
 - 💞️ I’m looking to collaborate on projects that will challenge me to grow professionally in programming.
-- 📫 How to reach me iovaclioma@gmail.com
+- 📫 How to reach me on Twitter @iova_alvarez
 
 <!---
 miova280703/miova280703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
